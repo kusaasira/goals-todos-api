@@ -1,6 +1,6 @@
 This repo is a a sample backend mock for a React front-end app
 
-This is a revamped Gols Todos API for a React API test project
+This is a revamped Goals Todos API for a React API test project
 
 Project Setup
 Clone the Project - git clone https://github.com/kusaasira/goals-todos-api.git
