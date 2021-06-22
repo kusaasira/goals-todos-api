@@ -1,12 +1,28 @@
-This repo is a a sample backend mock for a React front-end app
+# todos-goals-api
+Great API that can be used for demo purposes. Tested on any front end and very reliable and compatible.
 
-This is a revamped Goals Todos API for a React API test project
+### Installation
 
-Project Setup
-Clone the Project - git clone https://github.com/kusaasira/goals-todos-api.git
-Go into the directory where the project now lives - cd goals-todos-api
-Install the dependencies - npm install
-Start the app - npm start
-Contributing
+`npm install todos-goals-api`
 
-If you feel like there's a major problem, please open an issue to discuss the problem and potential resolution.
+
+### Usage
+```js
+
+// Common JS
+const API = require('todos-goals-api')
+
+// or with ES6 modules
+import API from 'todos-goals-api'
+
+/*
+API.fetchGoals()
+API.fetchTodos()
+API.saveTodo(name)
+API.saveGoal(name)
+API.deleteTodo(id)
+API.deleteGoal(id)
+API.saveTodoToggle(id)
+*/
+
+```
