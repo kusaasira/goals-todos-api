@@ -1,0 +1,19 @@
+{
+  "name": "todos-goals-api",
+  "version": "1.0.0",
+  "description": "Error free API for your todos/goals application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kusaasira/goals-todos-api.git"
+  },
+  "author": "Joshua Kusaasira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kusaasira/goals-todos-api/issues"
+  },
+  "homepage": "https://github.com/kusaasira/goals-todos-api#readme"
+}
